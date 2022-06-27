@@ -1,5 +1,5 @@
 #  About Me:
-Namaste, I'm Debalay 👋🏻<br><br>🔭 I’m passionate about data engineering, NLP and OpenCV<br>👯 I’d love to collaborate on projects revolving around data concepts or image processing<br>🤝 I’m always up for any challenge(specially ones with social impact!) <br>🌱 I’m currently exploring data-intensive application design<br>💬 Ask me about Computer Vision (together we can figure it out probably!)<br>⚡ Fun fact :  Successful debugging boosts Dopamine levels
+Namaste, I'm Debalay 👋🏻<br><br>🔭 I’m passionate about data engineering, NLP and OpenCV<br>👯 I’d love to collaborate on projects revolving around data concepts or image processing<br>🤝 I’m always up for any challenge(specially ones with social impact!) <br>🌱 I’m currently exploring data-intensive application design<br>💬 Ask me about Computer Vision (together we can figure it out probably!)<br>⚡ Fun fact :  Successful debugging boosts Dopamine level
 
 
 ## 🌐 Socials:
