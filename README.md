@@ -1,6 +1,7 @@
 #  About Me:
 Namaste, I'm Debalay 👋🏻<br><br>🔭 I’m passionate about data engineering, NLP and OpenCV<br>👯 I’d love to collaborate on projects revolving around data concepts or image processing<br>🤝 I’m always up for any challenge(specially ones with social impact!) <br>🌱 I’m currently exploring data-intensive application design<br>💬 Ask me about Computer Vision (together we can figure it out probably!)<br>⚡ Fun fact :  Successful debugging boosts Dopamine level
 
+ <img align="right" alt="GIF" src="https://github.com/Gaurav18-2001/Gaurav18-2001/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/debalaydasgupta/) 
