@@ -1,10 +1,10 @@
  <img align="right" alt="GIF" src="https://github.com/Debalay-dasgupta/Debalay-dasgupta/blob/main/oki.gif?raw=true" width="350" height="420" />
 
 #  About Me:
-🚀 Passionate Software Engineer with expertise in Java, Spring, and backend development.
-🔍 Skilled in designing scalable, high-performance solutions, optimizing code, and ensuring seamless deployments.
-📊 Experienced in full-cycle SDLC, from requirement analysis to implementation and support.
-💡 Love tackling complex challenges, especially those involving high-volume transactions, security, and cloud integrations.
+🚀 Passionate Software Engineer with expertise in Java, Spring, and backend development.<br/>
+🔍 Skilled in designing scalable, high-performance solutions, optimizing code, and ensuring seamless deployments.<br/>
+📊 Experienced in full-cycle SDLC, from requirement analysis to implementation and support.<br/>
+💡 Love tackling complex challenges, especially those involving high-volume transactions, security, and cloud integrations.<br/>
 ⚡ Fun fact: Debugging isn't just a skill—it's a dopamine booster!
 
 
